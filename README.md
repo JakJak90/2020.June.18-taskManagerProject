@@ -1,4 +1,4 @@
-# 2020.June.18-taskManager
+# 2020.June.18-taskManagerProject
 Third Python capstone project - Basic user accessed task manager
 
 Timeline :
